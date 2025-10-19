@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aya Nadeem Eqailan</h1>
 <h3 align="center">Data Science Graduate | Passionate about Data Analysis and Insights</h3>
 
+<p align="center">
+  <img src="Red White and Blue Flat Business Analysis Presentation.png" alt="Business Analysis Presentation" width="1000">
+</p>
+
 - 🔭 I’m currently working on **analyzing and predicting shop market sales data.**
 
 - 🌱 I’m currently mastering **python programming by building 100 projects.**
